@@ -1,14 +1,10 @@
-# Aplicação Web com ReactJS
+# Aplicação Web com ReactJS :thumbsup:
 
 ### Sem hooks
 
 ### Com hooks
 
 ### Com hooks e redux
-
-<ul>
-  <li>ReactJS :thumbsup:</li>
-</ul>
 
 <br/>
 
